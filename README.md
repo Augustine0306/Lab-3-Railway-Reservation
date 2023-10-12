@@ -26,8 +26,10 @@ their tickets.
 ![image](https://github.com/Augustine0306/Lab-3-Railway-Reservation/assets/119404460/dce61d9e-dc7a-4210-aace-18c488ee8a13)
 ### ACTIVITY DIAGRAM:
 ![image](https://github.com/Augustine0306/Lab-3-Railway-Reservation/assets/119404460/2c10bdf6-bdcc-4b30-b526-fbf627657e9a)
-
-
+### SEQUENCE DIAGRAM:
+![image](https://github.com/Augustine0306/Lab-3-Railway-Reservation/assets/119404460/3f0146ff-875f-44b7-b5f5-419eecc1dbc0)
+### COMMUNICATION DIAGRAM:
+![image](https://github.com/Augustine0306/Lab-3-Railway-Reservation/assets/119404460/6da59d28-a049-4ed4-aef7-a307a82a10e4)
 
 ### RESULT:
 Thus the project to develop e-ticketing system was developed using Star UML Software.
